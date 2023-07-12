@@ -26,6 +26,13 @@ const catsData = [
 			'https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTk2ODQ5ODc1OTE1MTIyMzA2/bengalleopardcat.png',
 		count: 60,
 	},
+	{
+		id: 5,
+		type: 'Bengal',
+		image:
+			'https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTk2ODQ5ODc1OTE1MTIyMzA2/bengalleopardcat.png',
+		count: 60,
+	},
 
 	// Add more objects as needed
 ];
