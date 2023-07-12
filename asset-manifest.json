@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ef62c52.css",
-    "main.js": "/static/js/main.60cfdbad.js",
-    "static/js/787.ed6314bc.chunk.js": "/static/js/787.ed6314bc.chunk.js",
-    "index.html": "/index.html",
-    "main.3ef62c52.css.map": "/static/css/main.3ef62c52.css.map",
-    "main.60cfdbad.js.map": "/static/js/main.60cfdbad.js.map",
-    "787.ed6314bc.chunk.js.map": "/static/js/787.ed6314bc.chunk.js.map"
+    "main.css": "/PetAdoptopia/static/css/main.3ef62c52.css",
+    "main.js": "/PetAdoptopia/static/js/main.7b0689af.js",
+    "static/js/787.ed6314bc.chunk.js": "/PetAdoptopia/static/js/787.ed6314bc.chunk.js",
+    "index.html": "/PetAdoptopia/index.html",
+    "main.3ef62c52.css.map": "/PetAdoptopia/static/css/main.3ef62c52.css.map",
+    "main.7b0689af.js.map": "/PetAdoptopia/static/js/main.7b0689af.js.map",
+    "787.ed6314bc.chunk.js.map": "/PetAdoptopia/static/js/787.ed6314bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ef62c52.css",
-    "static/js/main.60cfdbad.js"
+    "static/js/main.7b0689af.js"
   ]
 }
